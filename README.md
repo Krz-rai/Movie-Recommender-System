@@ -1,7 +1,7 @@
 # Movie-Recommender-System
 This Python project is a simple movie recommender system that recommends movies based on cosine similarity between users' movie ratings. By comparing your movie ratings with those of similar users, the system predicts and recommends movies that you are likely to enjoy.
 
-Features
+# Features
 Input movie ratings from users.
 Calculate similarity between users using cosine similarity.
 Recommend movies that similar users have highly rated but the current user has not yet seen.
